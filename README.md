@@ -2,6 +2,7 @@
 'How to' guides in python tensorflow environment
 
 ### Starter command line instructions (Windows)
+Check out tensorflow/install website and follow instructions
 ```bash
 # Preferably use visual studio code (setup python interpreter and install pylint)
 # > activate dlsu
